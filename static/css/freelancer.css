@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background-image: url(http://getwallpapers.com/wallpaper/full/4/c/c/900241-beach-background-wallpaper-1920x1200-samsung.jpg);
+  background:#ccccff;
   color: white;
 }
 header .container {
